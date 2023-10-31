@@ -1,0 +1,22 @@
+{
+  "name": "tp-aw-mamondez-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Mamondez",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romannn10/TP-AW-MamondezRoman.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Romannn10/TP-AW-MamondezRoman/issues"
+  },
+  "homepage": "https://github.com/Romannn10/TP-AW-MamondezRoman#readme",
+  "description": "",
+  "devDependencies": {
+    "five-server": "^0.3.1"
+  }
+}
