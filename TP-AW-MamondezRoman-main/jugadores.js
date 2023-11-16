@@ -1,6 +1,4 @@
-const jugadores = {
-    nombre:"Jugadores",
-    jugadores: [
+const jugadores =[
                  {
                  nombre:"Sergio Romero",
                  edad:"36",
@@ -94,7 +92,7 @@ const jugadores = {
                 
                 ]
 
-}
+
 
 
 
